@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sentinelas</title>
+        <item>
+            <title>0.19.0</title>
+            <pubDate>Wed, 26 Aug 2026 11:24:49 -0300</pubDate>
+            <sparkle:version>0.19.0</sparkle:version>
+            <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/minikas/minikas.github.io/releases/download/v0.19.0/Sentinelas-0.19.0.dmg" length="13777207" type="application/octet-stream" sparkle:edSignature="zRf8nbWdi1F/ueLcoSQ6kjABZGo3kEXoS1UWAikfaYqrmiGE/LPe7RdQg62RaHl+U+6wvmhQjUPK327J4IZZAA=="/>
+        </item>
+    </channel>
+</rss>
