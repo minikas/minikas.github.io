@@ -3,12 +3,12 @@
     <channel>
         <title>Sentinelas</title>
         <item>
-            <title>0.19.3</title>
-            <pubDate>Wed, 26 Aug 2026 20:51:14 -0300</pubDate>
-            <sparkle:version>0.19.3</sparkle:version>
-            <sparkle:shortVersionString>0.19.3</sparkle:shortVersionString>
+            <title>0.19.4</title>
+            <pubDate>Wed, 26 Aug 2026 22:01:42 -0300</pubDate>
+            <sparkle:version>0.19.4</sparkle:version>
+            <sparkle:shortVersionString>0.19.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/minikas/minikas.github.io/releases/download/v0.19.3/Sentinelas-0.19.3.dmg" length="13850180" type="application/octet-stream" sparkle:edSignature="eZrS4dHxgvEqqzh+1JsMjGdy1K93tUFKA/jauFC+7G+pLE0ULWIqhRyza3ASK0eb+DyDJdwf2uA0hQNCSnS6Bg=="/>
+            <enclosure url="https://github.com/minikas/minikas.github.io/releases/download/v0.19.4/Sentinelas-0.19.4.dmg" length="14226860" type="application/octet-stream" sparkle:edSignature="YO7l+fUaPxpswbo5uK7AvCjFTm9m53k2PXnYMtXj4smNsidDVUPMFirMR7Am++aZ2oEz7VrgJjveZdomavSxBw=="/>
         </item>
     </channel>
 </rss>
