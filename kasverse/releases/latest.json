@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.4",
-  "publishedAt": "2026-10-31T00:16:23Z",
+  "version": "0.1.6",
+  "publishedAt": "2026-10-31T00:28:25Z",
   "platform": "darwin",
   "arch": "arm64",
-  "releaseUrl": "https://github.com/minikas/minikas.github.io/releases/tag/kasverse-v0.1.4",
-  "downloadUrl": "https://github.com/minikas/minikas.github.io/releases/download/kasverse-v0.1.4/Kasverse-0.1.4-arm64.dmg",
-  "sha256": "415b3c49879c985e202a236c5b30072bab536ced292c24a9fe1c3066871e4680",
-  "sourceCommit": "201a009b005e3fef83ffa5fe9aea96b67aa95357",
+  "releaseUrl": "https://github.com/minikas/minikas.github.io/releases/tag/kasverse-v0.1.6",
+  "downloadUrl": "https://github.com/minikas/minikas.github.io/releases/download/kasverse-v0.1.6/Kasverse-0.1.6-arm64.dmg",
+  "sha256": "b8e32ea8331df27feecb446dc8d0fc3b0f6bf08ba792ae794b34d5a56081b1b2",
+  "sourceCommit": "9a40cbbfbb640922d781c8e36ba9b7c7c1519378",
   "signing": "unsigned"
 }
