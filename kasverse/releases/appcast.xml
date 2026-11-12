@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
-<title>Kasverse</title><item><title>Kasverse 0.1.20</title>
-<sparkle:version>0.1.20</sparkle:version><sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+<title>Kasverse</title><item><title>Kasverse 0.1.21</title>
+<sparkle:version>0.1.21</sparkle:version><sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/minikas/minikas.github.io/releases/download/kasverse-v0.1.20/Kasverse-0.1.20-arm64-mac.zip" sparkle:edSignature="oym16r9TObl2a7QTeBo6JBCcpqBde8uHn1sFlC2Pd63YSDWAETr/S6SyJ4K2u5MySiSnqPl/fittbZhjIXZvDQ==" length="251046068" type="application/octet-stream"></enclosure>
+<enclosure url="https://github.com/minikas/minikas.github.io/releases/download/kasverse-v0.1.21/Kasverse-0.1.21-arm64-mac.zip" sparkle:edSignature="agS+ZWm5HcgiU7k0MX1BJ9a8d9zdTjCWi6gfA+L2EyevU4pGElICcXNP4xs2XCfhxSBvuf96qzYOdhTptBNpDw==" length="254378531" type="application/octet-stream"></enclosure>
 </item></channel></rss><!-- sparkle-signatures:
-edSignature: vMyVNH43h9T19/jXuBOdvYarEwrU5iA4frXD5RQsYlDUmnFyKW0KvwzdRbq95bBNQiV0f2R9X86woJdJkwPSCA==
+edSignature: 2B4CVsY646Rps6Vo6LtHGOqVrAFzlqdZdZaBSyRlMAmtQogzFoDMMnYfEJYCGscy+BlZJaOCOL2kpOq2eILHBA==
 length: 944
 -->
